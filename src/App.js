@@ -1,7 +1,7 @@
-
 import './App.css';
 import NavBar from './componentes/NavBar/NavBar'
 import ItemListProducts from './componentes/ItemListProducts/ItemListProducts';
+
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <NavBar />
       <ItemListProducts />
+     
     </div>
     
   );
