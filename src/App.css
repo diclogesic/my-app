@@ -3,6 +3,11 @@
     bottom: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: rgb(190, 185, 185);
+}
+
 header.main-header {
     width: 100%;
     display: flex;
@@ -10,6 +15,7 @@ header.main-header {
     box-shadow: 1px 5px 15px #81818129;
     justify-content: space-between;
     align-items: center;
+    background-color: black;
 }
 
 h2 {
@@ -45,5 +51,5 @@ ul.navbar li {
 }
 
 .logo-carrito {
-    width: 80px;
+    width: 50px;
 }

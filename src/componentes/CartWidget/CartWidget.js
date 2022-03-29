@@ -1,7 +1,7 @@
 const CartWidget = () => {
     return(
         <div>
-            <img src={"https://www.seekpng.com/png/detail/986-9868123_png-file-icono-carrito-de-compras.png"}
+            <img src={"https://images.vexels.com/media/users/3/200097/isolated/preview/942820836246f08c2d6be20a45a84139-icono-de-carrito-de-compras-carrito-de-compras.png"}
             className={"logo-carrito"} />
             <p>4</p>
         </div>
